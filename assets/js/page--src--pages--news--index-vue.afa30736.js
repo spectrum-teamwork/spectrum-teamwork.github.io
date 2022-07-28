@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{fuao:function(e,n,t){"use strict";t.r(n);var u={name:"NewsPost"},s=t("7uw+"),a=Object(s.a)(u,(function(){var e=this.$createElement;return(this._self._c||e)("Layout")}),[],!1,null,null,null);n.default=a.exports}}]);
